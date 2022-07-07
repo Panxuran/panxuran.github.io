@@ -1,2 +1,2 @@
-## This is an old home page.
+## This is an old homepage.
 ## Please find my new [personal page](https://xuranpan.plus) here.
